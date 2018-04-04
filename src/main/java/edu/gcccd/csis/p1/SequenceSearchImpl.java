@@ -64,7 +64,7 @@ public class SequenceSearchImpl extends SequenceSearch {
                 i += endTag.length()-1;
             }
             else{
-                a += content.charAt(i);git 
+                a += content.charAt(i);
             }
         }
         return a;
